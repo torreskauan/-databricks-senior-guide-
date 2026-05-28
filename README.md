@@ -195,6 +195,20 @@ spark-databricks-study/
 | ⬜ | `08_logging_observability.py` | Structured logging, MLflow, métricas |
 | ⬜ | `09_cost_optimization.py` | DBU analysis, rightsizing, spot |
 
+### Módulo 13 — AI Engineering & GenAI
+| Status | Arquivo | Tópico |
+|--------|---------|--------|
+| ⬜ | 01_mlflow_fundamentos.py | Tracking, experiments, registry |
+| ⬜ | 02_feature_store.py | Feature engineering e reutilização |
+| ⬜ | 03_vector_search.py | Embeddings e busca vetorial |
+| ⬜ | 04_rag_basico.py | Retrieval Augmented Generation |
+| ⬜ | 05_llm_pipelines.py | Pipelines com LLMs |
+| ⬜ | 06_ai_functions.sql | AI Functions do Databricks |
+| ⬜ | 07_model_serving.py | Deploy e serving |
+| ⬜ | 08_prompt_engineering.md | Prompts para pipelines |
+| ⬜ | 09_ai_governance.md | Governança e monitoramento |
+| ⬜ | 10_mosaic_ai.md | Mosaic AI completo |
+
 ### Módulo 10 — CI/CD e DevOps
 | Status | Arquivo | Tópico |
 |--------|---------|--------|
